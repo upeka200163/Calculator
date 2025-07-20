@@ -11,7 +11,7 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 - Basic arithmetic operations: +, -, *, /, %
 - Clear (AC) and decimal (.) functionality
 - Error handling for invalid expressions
-- Built using pure HTML, CSS & JavaScript (no frameworks)
+- Built using pure HTML, CSS & JavaScript.
 
 ---
 
@@ -22,12 +22,10 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 - JavaScript (Vanilla)
 
 ---
----
-
 ## 🔧 How to Use
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/calculator-project.git
+[git clone https://github.com/your-username/calculator-project.git](https://github.com/upeka200163/Calculator.git)
 
