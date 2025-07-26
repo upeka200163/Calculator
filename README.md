@@ -3,7 +3,7 @@
 This is a simple calculator web application built using *HTML, **CSS, and **JavaScript*. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 ---
 
-<img width="1366" height="733" alt="image png" src="https://github.com/user-attachments/assets/633c31ef-4877-4ec8-b5da-0c33f2319b1f" />
+<img width="1366" height="642" alt="image png" src="https://github.com/user-attachments/assets/0d0fa4cc-12cd-415d-915a-d2fffa599732" />
 
 
 ## 🚀 Features
