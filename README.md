@@ -41,7 +41,7 @@ This project is licensed under the MIT License
 
 Upeka Sewwandi
 
-🔗 GitHub Profile
+🔗 github.com/upeka200163
 
 
 
