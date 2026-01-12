@@ -25,13 +25,14 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 ---
 ## 🔧 How to Use
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/upeka200163/Calculator.git  
 
 
 
-## 📃 License
 
+
+## 📃 License
 This project is licensed under the [MIT License](LICENSE).
