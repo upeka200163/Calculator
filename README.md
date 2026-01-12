@@ -31,12 +31,13 @@ git clone : https://github.com/upeka200163/Calculator.git
 
 2.Open the index.html file in the browser.
 
+---
 📃 License
 
 This project is licensed under the MIT License
 
-
-🙋‍♀️ Author
+---
+👤 Author
 
 Upeka Sewwandi
 
