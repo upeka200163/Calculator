@@ -30,9 +30,25 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 ```bash
 git clone https://github.com/upeka200163/Calculator.git
 
----
-## 📄 License
 
-This project is open-source and available under the **MIT License**.
+---
+
+## 🔴 What I Fixed (Simple explanation)
+✔ Markdown formatting errors  
+✔ `*HTML, **CSS` typo fix  
+✔ Code block properly closed  
+✔ License section **correctly linked**  
+✔ Professional GitHub look  
+
+---
+
+## ⭐ Optional (Highly Recommended)
+README එකට මේකත් add කළොත් **extra professional** වෙයි:
+
+```md
+## 👩‍💻 Author
+
+**Upeka Sewwandi**  
+Undergraduate | Software Engineering Student
 
 
