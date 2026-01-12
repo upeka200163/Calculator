@@ -34,5 +34,5 @@ git clone https://github.com/upeka200163/Calculator.git
 
 
 
-## 📃 License
-This project is licensed under the [MIT License](LICENSE).
+ 📃 License
+This project is licensed under the [LICENSE](LICENSE).
