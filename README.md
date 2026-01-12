@@ -25,9 +25,11 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 ---
 ## 🔧 How to Use
 
-Clone the repository:
+1.Clone the repository:
 
 git clone : https://github.com/upeka200163/Calculator.git
+
+2.Open the index.html file in the browser.
 
 📃 License
 
