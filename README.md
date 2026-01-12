@@ -28,9 +28,9 @@ This is a simple calculator web application built using *HTML, **CSS, and **Java
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/upeka200163/Calculator.git  <br>
+git clone https://github.com/upeka200163/Calculator.git  
 
----
+
 
 ## 📃 License
 
