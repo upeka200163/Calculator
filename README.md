@@ -14,7 +14,8 @@ Smart Calculator is a lightweight and responsive web application designed to per
 
 ## 📸 Project Preview
 
-> **Add your project screenshot below**
+<img width="1366" height="642" alt="471041056-0d0fa4cc-12cd-415d-915a-d2fffa599732" src="https://github.com/user-attachments/assets/c73b22d5-453a-4235-9dbc-b51d28362f50" />
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_LINK" width="900" alt="Calculator Preview"/>
@@ -160,10 +161,6 @@ Simply open **index.html** in your preferred web browser.
 This project is licensed under the **MIT License**.
 
 ---
-
-# 👩‍💻 Developed by Upeka Sewwandi
-
-**Software Engineering Undergraduate | NSBM Green University**
 
 ⭐ If you found this project helpful, don't forget to **Star** this repository!
  
